@@ -1,3 +1,6 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 const h1 = React.createElement('h1', {}, 'Waah Vedansh')
 const h2 = React.createElement('h2', {}, 'Waah Waah Vedansh')
 const a = React.createElement('h1', {}, "okiee")
